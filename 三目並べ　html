@@ -1,0 +1,6 @@
+<div class="game-container">
+  <h1>三目並べ</h1>
+  <div class="board" id="board"></div>
+  <button id="reset">Reset</button>
+  <p id="status"></p>
+</div>
